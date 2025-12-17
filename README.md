@@ -137,6 +137,6 @@ Al ejecutar `Main.java`, verás la salida de todos los 10 ejercicios demostrando
 
 ## 📚 Autor
 
-Taller de Herencia en Java - Campus JAVA - Laura Marcela Albarracin Serrano 
+Taller de Herencia en Java - Campus JAVA - Marcela Albarracin Serrano 
 
 
